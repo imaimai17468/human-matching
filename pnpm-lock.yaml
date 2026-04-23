@@ -12,7 +12,7 @@ importers:
         specifier: 0.0.6
         version: 0.0.6
       '@faker-js/faker':
-        specifier: ^10.4.0
+        specifier: 10.4.0
         version: 10.4.0
       solid-js:
         specifier: 1.9.12
