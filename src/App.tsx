@@ -125,6 +125,15 @@ function App() {
             https://uec-matching.mimifuwacc.workers.dev/
           </a>
         </p>
+        <p>
+          <a
+            href="https://github.com/imaimai17468/human-matching"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
+        </p>
         <p>© 2026 imaimai17468</p>
       </footer>
     </main>
